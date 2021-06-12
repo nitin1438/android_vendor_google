@@ -186,15 +186,7 @@ PRODUCT_PACKAGES += \
     CNEService \
     OemDmTrigger \
     qcrilmsgtunnel \
-    VZWAPNLib \
-    AmbientSensePrebuilt \
-    AppDirectedSMSService \
-    CarrierServices \
-    CarrierSettings \
-    CarrierWifi \
     ConnMO \
-    DCMO \
-    DMService \
     DevicePersonalizationPrebuiltPixel2 \
     DiagMon \
     EuiccGoogle \
@@ -202,14 +194,6 @@ PRODUCT_PACKAGES += \
     HardwareInfo \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
-    MyVerizonServices \
-    OBDM_Permissions \
-    SprintDM \
-    SprintHM \
-    TetheringEntitlement \
-    WfcActivation \
-    obdm_stub \
-    CarrierSetup \
     cneapiclient \
     com.google.android.camera.experimental2017 \
     com.quicinc.cne.api-V1.0-java \
